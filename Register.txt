@@ -1,5 +1,5 @@
 UserName : vmkrmca@gmail.com
-Password : Mani@123
+Password : Mani@1234
 UserMobile: +91 7022503201
 UserAddress : Bangalore
 UserGender : Male
